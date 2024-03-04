@@ -4,7 +4,7 @@
 
 ## Project Overview:
 
-In this project, I aim to focuse on the first question of a fictional case study provided by Google for its Data Analytics certification: How do annual members and casual riders use Cyclistic bikes differently?
+In this project, I aim to focus on the first question of a fictional case study provided by Google for its Data Analytics certification: How do annual members and casual riders use Cyclistic bikes differently?
 
 **Problem:** Cyclistic, a Chicago-based bike-sharing company, wants to convert casual riders into annual members to increase profitability. The marketing team needs data-driven insights to understand usage patterns and design effective marketing strategies.
 
