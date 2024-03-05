@@ -56,7 +56,7 @@ Special thanks to Maram Sa for providing this valuable dataset.
 
 Feel free to explore the code and visualizations in the respective folders. Your feedback is highly appreciated! 
 
-## Project Goals and Hypotheses:
+## Project Goals:
 
 ### Project Goals:
 1. Understand Customer Behavior and Demographics
